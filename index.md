@@ -35,9 +35,8 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 - *A Formal Instruction-Level GPU Model for Scalable Verification*
 
   Yue Xing, **Bo-Yuan Huang**, Aarti Gupta, and Sharad Malik
-
+  
   International Conference on Computer-Aided Design (ICCAD), 2018
-
   \[[pdf](/files/iccad18.pdf)\]
 
 - *Formal Security Verification of Concurrent Firmware in SoCs using Instruction-Level Abstraction for Hardware*
@@ -45,7 +44,6 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
   **Bo-Yuan Huang**, Sayak Ray, Aarti Gupta, Jason Fung, and Sharad Malik
 
   Design Automation Conference (DAC), 2018
-
   \[[pdf](/files/dac18.pdf)\]
 
 - *Asynchronous QDI Circuit Synthesis from Signal Transition Protocols*
@@ -53,7 +51,6 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
   **Bo-Yuan Huang**, Yi-Hsiang Lai, and Jie-Hong Roland Jiang
 
   IEEE International Conference on Computer Aided Design (ICCAD), 2015
-
   \[[pdf](/files/iccad15.pdf)\]
 
 - *Resource Allocation in D2D Communication – A Game Theoretic Approach*
@@ -61,7 +58,6 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
   **Bo-Yuan Huang**, Shih-Tang Su, Chih-Yu Wang, Che-Wei Teh, and Hung-Yu Wei
 
   In workshop IEEE International Conference on Communications (ICC), 2014
-
   \[[pdf](/files/icc14.pdf)\]
 
 ### Journals
@@ -71,7 +67,6 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
   **Bo-Yuan Huang**, Hongce Zhang, Pramod Subramanyan, Yakir Vizel, Aarti Gupta, and Sharad Malik
 
   ACM Transactions on Design Automation of Electronic Systems (TODAES), 2018
-
   \[[pdf](files/todaes18.pdf)\]
 
 - *Template-based Parameterized Synthesis of Uniform Instruction-Level Abstractions for SoC Verification*
@@ -79,7 +74,6 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
   Pramod Subramanyan, *Bo-Yuan Huang*, Yakir Vizel, Aarti Gupta, and Sharad Malik
 
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2018
-
   \[[pdf](files/tcad18.pdf)\]
 
 - *Protocol Design and Game Theoretic Solutions for Device-to-Device Radio Resource Allocation*
@@ -87,7 +81,6 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
   Shih-Tang Su, **Bo-Yuan Huang**, Chih-Yu Wang, Che-Wei Teh, and Hung-Yu Wei
 
   IEEE Transactions on Vehicular Technology (TVT), 2016
-
   \[[pdf](files/tvt16.pdf)\]
 
 ## Awards
