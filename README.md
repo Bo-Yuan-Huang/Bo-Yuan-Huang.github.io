@@ -1,1 +1,1 @@
-# Bo-Yuan-Huang.github.io
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ed0be5a718fa4ebaaa5557b138cf43ae)](https://www.codacy.com/app/Bo-Yuan-Huang/Bo-Yuan-Huang.github.io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bo-Yuan-Huang/Bo-Yuan-Huang.github.io&amp;utm_campaign=Badge_Grade)
