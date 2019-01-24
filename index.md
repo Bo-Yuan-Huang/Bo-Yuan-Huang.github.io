@@ -76,20 +76,6 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
   > IEEE Transactions on Vehicular Technology (TVT), 2016
   > \[[pdf](files/tvt16.pdf)\]
 
-## Awards
-
-- Summer School on Formal Technique, 2018
-- Best in Session Award, TechCon, 2017
-- Summer School on Formal Verification, 2017
-- Verification Mentoring Workshop, Computer-Aided Verification, 2016
-- Francis Robbins Upton Fellowship, 2015
-- First Prize in NTUEE Outstanding Undergraduate Independent Research, 2014
-- Second Prize in TSMC Special Research Competition, 2014
-- Ministry of Science and Technology Research Grant, 2013
-- President’s Awards (NTU), 2011, 2012, 2013, 2014
-- First Prize in TSMC Semiconductor Elite Program, 2012
-- First Prize in Microsoft WP Platform Workshop Innovation Award, 2012
-
 ## Experience
 
 ### Industrial
@@ -144,3 +130,16 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 - [ILAng](https://github.com/Bo-Yuan-Huang/ILAng)
 - [IMDb](https://github.com/PrincetonUniversity/IMDb)
 
+## Awards
+
+- Summer School on Formal Technique, 2018
+- Best in Session Award, TechCon, 2017
+- Summer School on Formal Verification, 2017
+- Verification Mentoring Workshop, Computer-Aided Verification, 2016
+- Francis Robbins Upton Fellowship, 2015
+- First Prize in NTUEE Outstanding Undergraduate Independent Research, 2014
+- Second Prize in TSMC Special Research Competition, 2014
+- Ministry of Science and Technology Research Grant, 2013
+- President’s Awards (NTU), 2011, 2012, 2013, 2014
+- First Prize in TSMC Semiconductor Elite Program, 2012
+- First Prize in Microsoft WP Platform Workshop Innovation Award, 2012
