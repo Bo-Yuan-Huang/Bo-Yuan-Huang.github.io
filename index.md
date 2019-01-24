@@ -15,18 +15,18 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 ## News
 
-- **Jan, 2019** | "Formal verification for open-source hardware" @ DARPA POSH/IDEA Integration Meeting
-- **Nov, 2018** | "Firmware Co-verification in Heterogeneous SoCs" @ ADA Liaison Meeting
-- **Sep, 2018** | "Formal Security Verification of Concurrent Firmware in SocS using Instruction-Level Abstraction for Hardware" @ TechCon
-- **Jun, 2018** | "Formal Security Verification of Concurrent Firmware in SocS using Instruction-Level Abstraction for Hardware" @ DAC
-- **May, 2018** | "Formware Verification of Firmware in Heterogeneous SoCs" @ ADA
-- **Sep, 2017** | "Democratizing Instructions: Instruction-Level Abstraction for SoC Designs and Verifications" @ CFAR 
-- **Sep, 2017** | "Instruction-Level Abstraction (ILA): Democratizing Instructions for SoCs" (Best in Session) @ TechCon 
-- **May, 2017** | "A Formal Model for Instruction-Level Abstraction of Hardware and its Application" @ Research Seminar, Princeton 
-- **Dec, 2016** | "Democratizing Instructions: Instruction-Level Abstraction for SoC Designs and Verifications" @ CFAR 
-- **Oct, 2016** | Student forum "Instruction-level abstraction based SoC firmware verification" @ FMCAD 
-- **May, 2016** | Our open-source instruction-level abstraction toolchain (ILA) is available. 
-- **Apr, 2015** | Awarded Francis Robbins Upton Fellowship 
+- **Jan, 2019**. "Formal verification for open-source hardware" @ DARPA POSH/IDEA Integration Meeting
+- **Nov, 2018**. "Firmware Co-verification in Heterogeneous SoCs" @ ADA Liaison Meeting
+- **Sep, 2018**. "Formal Security Verification of Concurrent Firmware in SocS using Instruction-Level Abstraction for Hardware" @ TechCon
+- **Jun, 2018**. "Formal Security Verification of Concurrent Firmware in SocS using Instruction-Level Abstraction for Hardware" @ DAC
+- **May, 2018**. "Formware Verification of Firmware in Heterogeneous SoCs" @ ADA
+- **Sep, 2017**. "Democratizing Instructions: Instruction-Level Abstraction for SoC Designs and Verifications" @ CFAR 
+- **Sep, 2017**. "Instruction-Level Abstraction (ILA): Democratizing Instructions for SoCs" (Best in Session) @ TechCon 
+- **May, 2017**. "A Formal Model for Instruction-Level Abstraction of Hardware and its Application" @ Research Seminar, Princeton 
+- **Dec, 2016**. "Democratizing Instructions: Instruction-Level Abstraction for SoC Designs and Verifications" @ CFAR 
+- **Oct, 2016**. Student forum "Instruction-level abstraction based SoC firmware verification" @ FMCAD 
+- **May, 2016**. Our open-source instruction-level abstraction toolchain (ILA) is available. 
+- **Apr, 2015**. Awarded Francis Robbins Upton Fellowship 
 
 ## Publications
 
