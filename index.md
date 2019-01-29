@@ -33,6 +33,10 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 ### Conferences
 
+-   **_ILAng: A Modeling and Verification Platform for SoCs using Instruction-Level Abstractions_**
+    > **Bo-Yuan Huang**, Hongce Zhang, Aarti Gupta, and Sharad Malik  
+    > International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2019 
+    
 -   **_A Formal Instruction-Level GPU Model for Scalable Verification_**
     > Yue Xing, **Bo-Yuan Huang**, Aarti Gupta, and Sharad Malik  
     > International Conference on Computer-Aided Design (ICCAD), 2018 
