@@ -1,4 +1,3 @@
-# Bo-Yuan Huang 
 ![profile-pic](/img/profile_pic.jpg) 
 
 I am a PhD candidate in the Department of Electrical Engineering at Princeton University working with Prof. [Sharad Malik](https://www.princeton.edu/~sharad/). 
