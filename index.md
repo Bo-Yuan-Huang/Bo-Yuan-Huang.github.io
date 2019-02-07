@@ -53,7 +53,7 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 -   **_Resource Allocation in D2D Communication – A Game Theoretic Approach_**
     > **Bo-Yuan Huang**, Shih-Tang Su, Chih-Yu Wang, Che-Wei Teh, and Hung-Yu Wei  
-    > In workshop IEEE International Conference on Communications (ICC), 2014 
+    > IEEE International Conference on Communications (ICC), 2014 
     > \[[pdf](/files/icc14.pdf)]
 
 ### Journals
