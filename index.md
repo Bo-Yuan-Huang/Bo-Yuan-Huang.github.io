@@ -15,6 +15,8 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 ## News
 
+-   **May, 2019**. "Hardware/Software Interface for Heterogeneous Systems-on-Chip: @ ADA Annual Review
+-   **Apr, 2019**. "ILAng: A Modeling and Verification Platform for SoC using Instruction-Level Abstraction" @ TACAS
 -   **Jan, 2019**. "Formal specification for open-source hardware" @ DARPA POSH/IDEA Integration Meeting
 -   **Nov, 2018**. "Firmware Co-verification in Heterogeneous SoCs" @ ADA Liaison Meeting
 -   **Sep, 2018**. "Formal Security Verification of Concurrent Firmware in SocS using Instruction-Level Abstraction for Hardware" @ TechCon
@@ -35,6 +37,7 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 -   **_ILAng: A Modeling and Verification Platform for SoCs using Instruction-Level Abstractions_**
     > **Bo-Yuan Huang**, Hongce Zhang, Aarti Gupta, and Sharad Malik  
     > International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2019 
+    > \[[pdf](/files/tacas19.pdf)]
     
 -   **_A Formal Instruction-Level GPU Model for Scalable Verification_**
     > Yue Xing, **Bo-Yuan Huang**, Aarti Gupta, and Sharad Malik  
@@ -79,7 +82,7 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 -   **Research Intern, Microsoft Research.**
     Jun 2018 - Sep 2018, Redmond, WA 
-    > White-box fuzzing for security vulnerabilities in Windows kernel packet/file parsers.  
+    > White-box fuzzing for attacker-memory-safety in OS kernel packet/file parsers.  
     > Kernel-aware memory checker and symbolic pointer reasoning. 
 
 -   **Security Research Intern, Intel Coporation**
