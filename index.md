@@ -1,4 +1,4 @@
-![profile-pic](/img/profile_pic.jpg) 
+![profile-pic](/img/Huang-Bo-Yuan-Edge.png) 
 
 I am a PhD candidate in the Department of Electrical Engineering at Princeton University working with Prof. [Sharad Malik](https://www.princeton.edu/~sharad/). 
 My research interest is applying formal methods in accelerator-rich computing platforms, especially software/hardware co-verification and co-synthesis.
