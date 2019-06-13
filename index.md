@@ -1,4 +1,4 @@
-![profile-pic](/img/Huang-Bo-Yuan-Edge.png) 
+<img src="https://github.com/Bo-Yuan-Huang/Bo-Yuan-Huang.github.io/blob/master/img/Huang-Bo-Yuan-Edge.png" alt="profile-pic" width="250" height="250">
 
 I am a PhD candidate in the Department of Electrical Engineering at Princeton University working with Prof. [Sharad Malik](https://www.princeton.edu/~sharad/). 
 My research interest is applying formal methods in accelerator-rich computing platforms, especially software/hardware co-verification and co-synthesis.
@@ -80,6 +80,10 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 ### Industrial
 
+-   **Research Intern, Microsoft Research.**
+    Jun 2019 - Sep 2019, Redmond, WA
+    > Coming soon!
+    
 -   **Research Intern, Microsoft Research.**
     Jun 2018 - Sep 2018, Redmond, WA 
     > White-box fuzzing for attacker-memory-safety in OS kernel packet/file parsers.  
