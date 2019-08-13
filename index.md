@@ -1,9 +1,9 @@
 ![profile-pic](img/Huang-Bo-Yuan-Profile-Pic.png)
 
-I am a PhD candidate in the Department of Electrical Engineering at Princeton University working with Prof. [Sharad Malik](https://www.princeton.edu/~sharad/). 
-My research interest is applying formal methods in accelerator-rich computing platforms, especially software/hardware co-verification and co-synthesis.
-I am also interested in security related system verification.
-My current focus is instruction-level abstraction based SoC firmware synthesis. 
+I am a Ph.D. candidate in the Department of Electrical Engineering at Princeton University, working with Prof. [Sharad Malik](https://www.princeton.edu/~sharad/). 
+My research focuses on applying formal methods in accelerator-rich computing platforms, especially software/hardware co-verification and co-synthesis.
+I also work on security verification of systems in practical scales targeting vulnerabilities spanning across the software and hardware boundary. 
+My current focus is automatic firmware/driver synthesis for ML/Crypto accelerators.
 
 Before coming to Princeton, I received my BS in Electrical Engineering from National Taiwan University. 
 
@@ -12,23 +12,6 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 \[[GitHub](https://github.com/Bo-Yuan-Huang)] 
 \[[ORCiD](https://orcid.org/0000-0001-7069-4069)] 
 \[[DBLP](https://dblp.uni-trier.de/pers/hd/h/Huang:Bo=Yuan)]
-
-## News
-
--   **May, 2019**. "Hardware/Software Interface for Heterogeneous Systems-on-Chip: @ ADA Annual Review
--   **Apr, 2019**. "ILAng: A Modeling and Verification Platform for SoC using Instruction-Level Abstraction" @ TACAS
--   **Jan, 2019**. "Formal specification for open-source hardware" @ DARPA POSH/IDEA Integration Meeting
--   **Nov, 2018**. "Firmware Co-verification in Heterogeneous SoCs" @ ADA Liaison Meeting
--   **Sep, 2018**. "Formal Security Verification of Concurrent Firmware in SocS using Instruction-Level Abstraction for Hardware" @ TechCon
--   **Jun, 2018**. "Formal Security Verification of Concurrent Firmware in SocS using Instruction-Level Abstraction for Hardware" @ DAC
--   **May, 2018**. "Formware Verification of Firmware in Heterogeneous SoCs" @ ADA
--   **Sep, 2017**. "Democratizing Instructions: Instruction-Level Abstraction for SoC Designs and Verifications" @ CFAR 
--   **Sep, 2017**. "Instruction-Level Abstraction (ILA): Democratizing Instructions for SoCs" (Best in Session) @ TechCon 
--   **May, 2017**. "A Formal Model for Instruction-Level Abstraction of Hardware and its Application" @ Research Seminar, Princeton 
--   **Dec, 2016**. "Democratizing Instructions: Instruction-Level Abstraction for SoC Designs and Verifications" @ CFAR 
--   **Oct, 2016**. Student forum "Instruction-level abstraction based SoC firmware verification" @ FMCAD 
--   **May, 2016**. Our open-source instruction-level abstraction toolchain (ILA) is available. 
--   **Apr, 2015**. Awarded Francis Robbins Upton Fellowship 
 
 ## Publications
 
@@ -133,10 +116,8 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 ## Awards
 
--   Summer School on Formal Technique, 2018
 -   Best in Session Award, TechCon, 2017
--   Summer School on Formal Verification, 2017
--   Verification Mentoring Workshop, Computer-Aided Verification, 2016
+-   Full Scholarship, Verification Mentoring Workshop, Computer-Aided Verification, 2016
 -   Francis Robbins Upton Fellowship, 2015
 -   First Prize in NTUEE Outstanding Undergraduate Independent Research, 2014
 -   Second Prize in TSMC Special Research Competition, 2014
