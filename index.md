@@ -10,8 +10,6 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 [CV](/files/cv.pdf) 
 \[[Google Scholar](https://scholar.google.com/citations?user=7gPjJ48AAAAJ&hl=en)] 
 \[[GitHub](https://github.com/Bo-Yuan-Huang)] 
-\[[ORCiD](https://orcid.org/0000-0001-7069-4069)] 
-\[[DBLP](https://dblp.uni-trier.de/pers/hd/h/Huang:Bo=Yuan)]
 
 ## Publications
 
@@ -65,7 +63,8 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 -   **Research Intern, Microsoft Research.**
     Jun 2019 - Sep 2019, Redmond, WA
-    > Coming soon!
+    > Intelligent REST API data fuzzing of JSON-payloads.  
+    > Grammar-based fuzzing with learning from dynamic feedback.
     
 -   **Research Intern, Microsoft Research.**
     Jun 2018 - Sep 2018, Redmond, WA 
