@@ -81,9 +81,9 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
     > Research on ILA-based SoC firmware verification methodology.  
     > Exploiting security properties in SoC secure-boot features. 
 
--   **Design Automation Intern, TSMC**
+-   **Software Engineering Intern, TSMC**
     Jun 2013 - Sep 2013, Hsinchu, Taiwan 
-    > Develop EDA tools for Advanced Process Transferring Group.  
+    > Develop Electronic Design Automation (EDA) tools for the Advanced Process Transferring Group.  
     > Programming training for research-develop engineers 
 
 ### Teaching
@@ -115,6 +115,7 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 ## Awards
 
+-   Teaching Assistant Award, Princeton, 2019
 -   Best in Session Award, TechCon, 2017
 -   Full Scholarship, Verification Mentoring Workshop, Computer-Aided Verification, 2016
 -   Francis Robbins Upton Fellowship, 2015
