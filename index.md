@@ -42,6 +42,10 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 ### Journals
 
+-   **_Reducing NRE Labor Costs for Domain-Specific Architectures using Instruction-Level Abstractions_**
+    > **Bo-Yuan Huang**, Yue Xing, Hongce Zhang, Huaixi Lu, Yi Li, Aarti Gupta, and Sharad Malik  
+    > In submission to IEEE Micro.
+
 -   **_Instruction-Level Abstraction (ILA): A Uniform Specification for System-on-Chip (SoC) Verification_**
     > **Bo-Yuan Huang**, Hongce Zhang, Pramod Subramanyan, Yakir Vizel, Aarti Gupta, and Sharad Malik  
     > ACM Transactions on Design Automation of Electronic Systems (TODAES), 2018 
