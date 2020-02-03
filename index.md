@@ -111,6 +111,12 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
     > Advisor: Prof. Sharad Malik  
     > Software/Hardware Co-Verification: Google Verified Boot Firmware with Trusted Platform Module 
 
+### Services
+
+-   PC member (AEC), International Conference on Computer-Aided Verification (CAV), 2020.
+-   External reviewer, Design Automation Conference (DAC), 2019.
+-   External reviewer, Design Automation Conference (DAC), 2017.
+
 ### Software/Prototype Development
 
 -   [ILAng](https://github.com/Bo-Yuan-Huang/ILAng): A modeling and verification platform for Systems-on-chip (SoCs)
