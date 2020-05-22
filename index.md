@@ -15,11 +15,15 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 ### Conferences
 
+-   **_Intelligent REST API Data Fuzzing_**
+    > **Bo-Yuan Huang**, Marina Polishchuk, and Patrice Godefroid  
+    > The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2020 
+    
 -   **_ILAng: A Modeling and Verification Platform for SoCs using Instruction-Level Abstractions_**
     > **Bo-Yuan Huang**, Hongce Zhang, Aarti Gupta, and Sharad Malik  
     > International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2019 
     > \[[pdf](/files/tacas19.pdf)]
-    
+
 -   **_A Formal Instruction-Level GPU Model for Scalable Verification_**
     > Yue Xing, **Bo-Yuan Huang**, Aarti Gupta, and Sharad Malik  
     > International Conference on Computer-Aided Design (ICCAD), 2018 
