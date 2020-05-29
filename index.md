@@ -105,6 +105,11 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 ### Mentoring
 
+-   **Phoebe Lin**
+    > CS Department ReMatch+ Research Program, Summer 2020  
+    > Advisor: Prof. Sharad Malik  
+    > Parallel SAT Solving with Localized Learnt Clauses Sharing 
+
 -   **Yueling Zhang**
     > CS Department Visiting Student, Spring 2018  
     > Advisor: Prof. Aarti Gupta  
