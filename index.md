@@ -46,15 +46,11 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 ### Journals
 
--   **_Reducing NRE Labor Costs for Domain-Specific Architectures using Instruction-Level Abstractions_**
-    > **Bo-Yuan Huang**, Yue Xing, Hongce Zhang, Huaixi Lu, Yi Li, Aarti Gupta, and Sharad Malik  
-    > In submission to IEEE Micro.
-
 -   **_Instruction-Level Abstraction (ILA): A Uniform Specification for System-on-Chip (SoC) Verification_**
     > **Bo-Yuan Huang**, Hongce Zhang, Pramod Subramanyan, Yakir Vizel, Aarti Gupta, and Sharad Malik  
     > ACM Transactions on Design Automation of Electronic Systems (TODAES), 2018 
     > \[[pdf](files/todaes18.pdf)]  
-    > **_Best Paper Award_**
+    > **_[Best Paper Award](https://dl.acm.org/journal/todaes/honors-and-awards)_**
 
 -   **_Template-based Parameterized Synthesis of Uniform Instruction-Level Abstractions for SoC Verification_**
     > Pramod Subramanyan, **Bo-Yuan Huang**, Yakir Vizel, Aarti Gupta, and Sharad Malik  
@@ -135,6 +131,7 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 ## Awards
 
+-   ACM TODAES best paper award, 2020
 -   Teaching Assistant Award, Princeton, 2019
 -   Best in Session Award, TechCon, 2017
 -   Full Scholarship, Verification Mentoring Workshop, Computer-Aided Verification, 2016
