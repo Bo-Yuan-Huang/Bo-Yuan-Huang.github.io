@@ -13,10 +13,28 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 ## Publications
 
+### Journals
+
+-   **_Instruction-Level Abstraction (ILA): A Uniform Specification for System-on-Chip (SoC) Verification_**
+    > **Bo-Yuan Huang**, Hongce Zhang, Pramod Subramanyan, Yakir Vizel, Aarti Gupta, and Sharad Malik  
+    > ACM Transactions on Design Automation of Electronic Systems (TODAES), 2018 
+    > \[[pdf](files/todaes18.pdf)]  
+    > **_[Best Paper Award](https://dl.acm.org/journal/todaes/honors-and-awards)_**
+
+-   **_Template-based Parameterized Synthesis of Uniform Instruction-Level Abstractions for SoC Verification_**
+    > Pramod Subramanyan, **Bo-Yuan Huang**, Yakir Vizel, Aarti Gupta, and Sharad Malik  
+    > IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2018 
+    > \[[pdf](files/tcad18.pdf)]
+
+-   **_Protocol Design and Game Theoretic Solutions for Device-to-Device Radio Resource Allocation_**
+    > Shih-Tang Su, **Bo-Yuan Huang**, Chih-Yu Wang, Che-Wei Teh, and Hung-Yu Wei  
+    > IEEE Transactions on Vehicular Technology (TVT), 2016 
+    > \[[pdf](files/tvt16.pdf)]
+
 ### Conferences
 
 -   **_Intelligent REST API Data Fuzzing_**
-    > **Bo-Yuan Huang**, Marina Polishchuk, and Patrice Godefroid  
+    > Patrice Godefroid, **Bo-Yuan Huang**, and Marina Polishchuk   
     > The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2020 
     
 -   **_ILAng: A Modeling and Verification Platform for SoCs using Instruction-Level Abstractions_**
@@ -43,24 +61,6 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
     > **Bo-Yuan Huang**, Shih-Tang Su, Chih-Yu Wang, Che-Wei Teh, and Hung-Yu Wei  
     > IEEE International Conference on Communications (ICC), 2014 
     > \[[pdf](/files/icc14.pdf)]
-
-### Journals
-
--   **_Instruction-Level Abstraction (ILA): A Uniform Specification for System-on-Chip (SoC) Verification_**
-    > **Bo-Yuan Huang**, Hongce Zhang, Pramod Subramanyan, Yakir Vizel, Aarti Gupta, and Sharad Malik  
-    > ACM Transactions on Design Automation of Electronic Systems (TODAES), 2018 
-    > \[[pdf](files/todaes18.pdf)]  
-    > **_[Best Paper Award](https://dl.acm.org/journal/todaes/honors-and-awards)_**
-
--   **_Template-based Parameterized Synthesis of Uniform Instruction-Level Abstractions for SoC Verification_**
-    > Pramod Subramanyan, **Bo-Yuan Huang**, Yakir Vizel, Aarti Gupta, and Sharad Malik  
-    > IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2018 
-    > \[[pdf](files/tcad18.pdf)]
-
--   **_Protocol Design and Game Theoretic Solutions for Device-to-Device Radio Resource Allocation_**
-    > Shih-Tang Su, **Bo-Yuan Huang**, Chih-Yu Wang, Che-Wei Teh, and Hung-Yu Wei  
-    > IEEE Transactions on Vehicular Technology (TVT), 2016 
-    > \[[pdf](files/tvt16.pdf)]
 
 ## Experience
 
