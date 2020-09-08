@@ -103,7 +103,7 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 ### Mentoring
 
 -   **Phoebe Lin**
-    > CS Department ReMatch+ Research Program, Summer 2020  
+    > ReMatch+ Research Program & EE Department Independent Work, Summer 2020 - Fall 2020  
     > Advisor: Prof. Sharad Malik  
     > Parallel SAT Solving with Localized Learnt Clauses Sharing 
 
