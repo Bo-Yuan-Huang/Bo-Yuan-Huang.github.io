@@ -36,6 +36,7 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 -   **_Intelligent REST API Data Fuzzing_**
     > Patrice Godefroid, **Bo-Yuan Huang**, and Marina Polishchuk   
     > The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2020 
+    > \[[pdf](/files/fse20.pdf)]
     
 -   **_ILAng: A Modeling and Verification Platform for SoCs using Instruction-Level Abstractions_**
     > **Bo-Yuan Huang**, Hongce Zhang, Aarti Gupta, and Sharad Malik  
