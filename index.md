@@ -1,6 +1,6 @@
 ![profile-pic](img/Huang-Bo-Yuan-Profile-Pic.png)
 
-I am a Ph.D. candidate in the Department of Electrical Engineering at Princeton University, working with Prof. [Sharad Malik](https://www.princeton.edu/~sharad/). 
+I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Princeton University, working with Prof. [Sharad Malik](https://www.princeton.edu/~sharad/). 
 My research focuses on applying formal methods in accelerator-rich computing platforms, especially software/hardware co-verification and co-synthesis.
 I also work on security verification of systems in practical scales targeting vulnerabilities spanning across the software and hardware boundary. 
 My current focus is automatic firmware/driver synthesis for ML/Crypto accelerators.
@@ -126,7 +126,7 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 ### Software/Prototype Development
 
--   [ILAng](https://github.com/Bo-Yuan-Huang/ILAng): A modeling and verification platform for Systems-on-chip (SoCs)
+-   [ILAng](https://github.com/PrincetonUniveristy/ILAng): A modeling and verification platform for Systems-on-chip (SoCs)
 -   [IMDb](https://github.com/PrincetonUniversity/IMDb): An open-source database for ILA models
 -   [ItSy](https::/github.com/PrincetonUniversity/ItSy): Templated-based synthesis engine for ILA
 
