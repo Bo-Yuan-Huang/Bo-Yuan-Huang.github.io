@@ -18,7 +18,7 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 -   **_Instruction-Level Abstraction (ILA): A Uniform Specification for System-on-Chip (SoC) Verification_**
     > **Bo-Yuan Huang**, Hongce Zhang, Pramod Subramanyan, Yakir Vizel, Aarti Gupta, and Sharad Malik  
     > ACM Transactions on Design Automation of Electronic Systems (TODAES), 2018 
-    > \[[pdf](files/todaes18.pdf)]  
+    > \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3282444)]  
     > **_[Best Paper Award](https://dl.acm.org/journal/todaes/honors-and-awards)_**
 
 -   **_Template-based Parameterized Synthesis of Uniform Instruction-Level Abstractions for SoC Verification_**
@@ -31,7 +31,7 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
     > IEEE Transactions on Vehicular Technology (TVT), 2016 
     > \[[pdf](files/tvt16.pdf)]
 
-### Conferences
+### Conference Proceedings
 
 -   **_Intelligent REST API Data Fuzzing_**
     > Patrice Godefroid, **Bo-Yuan Huang**, and Marina Polishchuk   
@@ -46,7 +46,7 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 -   **_A Formal Instruction-Level GPU Model for Scalable Verification_**
     > Yue Xing, **Bo-Yuan Huang**, Aarti Gupta, and Sharad Malik  
     > International Conference on Computer-Aided Design (ICCAD), 2018 
-    > \[[pdf](/files/iccad18.pdf)]
+    > \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3240765.3240771)]
 
 -   **_Formal Security Verification of Concurrent Firmware in SoCs using Instruction-Level Abstraction for Hardware_**
     > **Bo-Yuan Huang**, Sayak Ray, Aarti Gupta, Jason Fung, and Sharad Malik  
@@ -67,30 +67,36 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 
 ### Industrial
 
--   **Research Intern, Microsoft Research.**
-    Jun 2019 - Sep 2019, Redmond, WA
-    > Intelligent REST API data fuzzing of JSON-payloads.  
-    > Grammar-based fuzzing with learning from dynamic feedback.
-    
--   **Research Intern, Microsoft Research.**
-    Jun 2018 - Sep 2018, Redmond, WA 
-    > White-box fuzzing for attacker-memory-safety in OS kernel packet/file parsers.  
-    > Kernel-aware memory checker and symbolic pointer reasoning. 
+-   **Intern, Microsoft Research (RiSE)**
+    June 2019 - Aug. 2019, Redmond, WA 
+    > Studied REST API data fuzzing using grammar-based approaches and with dynamic-learning techniques.  
+    > Implemented intelligent REST API data fuzzing on top of RESTler for cloud services.
 
--   **Security Research Intern, Intel Coporation**
-    Jun 2017 - Sep 2017, Hillsboro, OR 
-    > Concurrent firmware verification with LLVM/Boogie-based software verification tools.  
-    > Exploiting security properties in inter-IPs communication in an industrial SoC design. 
+-   **Intern, Microsoft Research (RiSE)**
+    June 2018 - Aug. 2018, Redmond, WA 
+    > Studied white-box fuzzing for attacker-memory-safety in OS kernel packet/file parsers.  
+    > Implemented kernel-aware memory checker with symbolic pointer reasoning. 
 
--   **Security Research Intern, Intel Coporation**
-    Jun 2016 - Sep 2016, Hillsboro, OR 
-    > Research on ILA-based SoC firmware verification methodology.  
-    > Exploiting security properties in SoC secure-boot features. 
+-   **Intern, Intel Corp. (Security Center of Excellence)**
+    June 2017 - Sep. 2017, Hillsboro, OR 
+    > Studied concurrent firmware verification using ILA-based methodology and world-level checking of bit-wise operations.  
+    > Exploited security vulnerabilities in the inter-IPs communication of an industrial SoC design. 
 
--   **Software Engineering Intern, TSMC**
+-   **Intern, Intel Copr. (Security Center of Excellence)**
+    June 2016 - Sep. 2016, Hillsboro, OR 
+    > Studied software/hardware co-verification in SoCs using bounded model checking and QEMU.  
+    > Exploited security vulnerabilities in the secure-boot flow of an industrial SoC design. 
+
+-   **Intern, TSMC (Advanced Process Transferring)**
     Jun 2013 - Sep 2013, Hsinchu, Taiwan 
-    > Develop Electronic Design Automation (EDA) tools for the Advanced Process Transferring Group.  
-    > Programming training for research-develop engineers 
+    > Developed electronic design automation (EDA) tools and analysis tools for the advanced process research team.  
+    > Provided programming training for research-and-development engineers. 
+
+### Services
+
+-   PC member (AEC), International Conference on Computer-Aided Verification (CAV), 2020.
+-   External reviewer, Design Automation Conference (DAC), 2019.
+-   External reviewer, Design Automation Conference (DAC), 2017.
 
 ### Teaching
 
@@ -117,18 +123,6 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
     > EE Department Senior Thesis, Fall 2016 - Spring 2017  
     > Advisor: Prof. Sharad Malik  
     > Software/Hardware Co-Verification: Google Verified Boot Firmware with Trusted Platform Module 
-
-### Services
-
--   PC member (AEC), International Conference on Computer-Aided Verification (CAV), 2020.
--   External reviewer, Design Automation Conference (DAC), 2019.
--   External reviewer, Design Automation Conference (DAC), 2017.
-
-### Software/Prototype Development
-
--   [ILAng](https://github.com/PrincetonUniveristy/ILAng): A modeling and verification platform for Systems-on-chip (SoCs)
--   [IMDb](https://github.com/PrincetonUniversity/IMDb): An open-source database for ILA models
--   [ItSy](https::/github.com/PrincetonUniversity/ItSy): Templated-based synthesis engine for ILA
 
 ## Awards
 
