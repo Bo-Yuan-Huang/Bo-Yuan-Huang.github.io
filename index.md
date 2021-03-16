@@ -1,11 +1,7 @@
 ![profile-pic](img/Huang-Bo-Yuan-Profile-Pic.png)
 
 I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Princeton University, working with Prof. [Sharad Malik](https://www.princeton.edu/~sharad/). 
-My research focuses on applying formal methods in accelerator-rich computing platforms, especially software/hardware co-verification and co-synthesis.
-I also work on security verification of systems in practical scales targeting vulnerabilities spanning across the software and hardware boundary. 
-My current focus is automatic firmware/driver synthesis for ML/Crypto accelerators.
-
-Before coming to Princeton, I received my BS in Electrical Engineering from National Taiwan University. 
+Before coming to Princeton, I received my BS in Electrical Engineering and Computer Science from National Taiwan University. My research focuses on the verification and synthesis problems amid the modern accelerator-rich platforms. I worked on the formal modeling and verification methodology for heterogeneous hardware backends. I studied software/hardware co-verification for security assurance in the SoC context. I also developed an end-to-end verifiable compilation flow that allows deep-learning applications to exploit custom accelerators. While most of my works apply formal methods, I am also actively exploring related techniques like simulation-based validation and white/gray/black-box fuzzing.
 
 [CV](/files/cv.pdf) 
 \[[Google Scholar](https://scholar.google.com/citations?user=7gPjJ48AAAAJ&hl=en)] 
