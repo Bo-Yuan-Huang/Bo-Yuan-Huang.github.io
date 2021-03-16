@@ -110,14 +110,14 @@ Before coming to Princeton, I received my BS in Electrical Engineering from Nati
 ### Mentoring
 
 -   **Phoebe Lin**
-    > ReMatch+ Research Program & EE Department Independent Work, Summer 2020 - Fall 2020  
+    > ReMatch+ Research Program & ECE Department Independent Work, Summer 2020 - Fall 2020  
     > Advisor: Prof. Sharad Malik  
-    > Parallel SAT Solving with Localized Learnt Clauses Sharing 
+    > Parallel SAT Solving with Near and Rapid Clause Sharing 
 
 -   **Yueling Zhang**
     > CS Department Visiting Student, Spring 2018  
     > Advisor: Prof. Aarti Gupta  
-    > Hardware Description (Verilog) Generation for Instruction-Level Abstraction (ILA) 
+    > HDL Synthesis of Instruction-Level Abstraction Models 
 
 -   **David Gilhooley**
     > EE Department Senior Thesis, Fall 2016 - Spring 2017  
