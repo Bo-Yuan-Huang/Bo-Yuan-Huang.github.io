@@ -5,6 +5,7 @@ Before coming to Princeton, I received my BS in Electrical Engineering and Compu
 
 [CV](/files/cv.pdf) 
 \[[Google Scholar](https://scholar.google.com/citations?user=7gPjJ48AAAAJ&hl=en)] 
+\[[dblp](https://dblp.org/pid/150/6386)]
 \[[GitHub](https://github.com/Bo-Yuan-Huang)] 
 
 ## Publications
