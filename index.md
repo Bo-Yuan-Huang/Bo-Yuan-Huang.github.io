@@ -25,7 +25,7 @@ Before coming to Princeton, I received my BS in Electrical Engineering and Compu
 
 -   **_Protocol Design and Game Theoretic Solutions for Device-to-Device Radio Resource Allocation_**
     > Shih-Tang Su, **Bo-Yuan Huang**, Chih-Yu Wang, Che-Wei Teh, and Hung-Yu Wei  
-    > IEEE Transactions on Vehicular Technology (TVT), 2016 
+    > IEEE Transactions on Vehicular Technology (TVT), 2017 
     > \[[pdf](files/tvt16.pdf)]
 
 ### Conference Proceedings
