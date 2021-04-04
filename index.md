@@ -14,7 +14,7 @@ Before coming to Princeton, I received my BS in Electrical Engineering and Compu
 
 -   **_Instruction-Level Abstraction (ILA): A Uniform Specification for System-on-Chip (SoC) Verification_**
     > **Bo-Yuan Huang**, Hongce Zhang, Pramod Subramanyan, Yakir Vizel, Aarti Gupta, and Sharad Malik  
-    > ACM Transactions on Design Automation of Electronic Systems (TODAES), 2018 
+    > ACM Transactions on Design Automation of Electronic Systems (TODAES), 2019 
     > \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3282444)]  
     > **_[Best Paper Award](https://dl.acm.org/journal/todaes/honors-and-awards)_**
 
